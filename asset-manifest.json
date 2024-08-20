@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AhmedNabil-99/Movie-React/static/css/main.70e1900b.css",
+    "main.js": "/AhmedNabil-99/Movie-React/static/js/main.f3edcb23.js",
+    "static/js/453.7bf11acd.chunk.js": "/AhmedNabil-99/Movie-React/static/js/453.7bf11acd.chunk.js",
+    "index.html": "/AhmedNabil-99/Movie-React/index.html",
+    "main.70e1900b.css.map": "/AhmedNabil-99/Movie-React/static/css/main.70e1900b.css.map",
+    "main.f3edcb23.js.map": "/AhmedNabil-99/Movie-React/static/js/main.f3edcb23.js.map",
+    "453.7bf11acd.chunk.js.map": "/AhmedNabil-99/Movie-React/static/js/453.7bf11acd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e1900b.css",
+    "static/js/main.f3edcb23.js"
+  ]
+}
